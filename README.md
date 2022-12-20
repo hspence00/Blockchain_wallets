@@ -107,7 +107,8 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 5. Return to the original transaction, and click the transaction’s To address.
 
 * Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
-
+![Screenshot 2022-12-19 at 7.47.48 PM.png](https://github.com/hspence00/Blockchain_wallets/blob/main/Images/Screenshot%202022-12-19%20at%207.47.48%20PM.png)
+![Screenshot 2022-12-19 at 7.48.18 PM.png](https://github.com/hspence00/Blockchain_wallets/blob/main/Images/Screenshot%202022-12-19%20at%207.48.18%20PM.png)
 ---
 
 ## Submission
